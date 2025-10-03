@@ -1,0 +1,403 @@
+{
+  "Division A": {
+    "Area 01": [
+      {
+        "clubId": "02675574",
+        "clubName": "Helios Toastmasters",
+        "members": 24
+      },
+      {
+        "clubId": "03875883",
+        "clubName": "Skylarks Toastmasters",
+        "members": 27
+      },
+      {
+        "clubId": "05930698",
+        "clubName": "Sarajevo Toastmasters Club",
+        "members": 9
+      },
+      {
+        "clubId": "28676788",
+        "clubName": "Roche Budapest Toastmaster Club",
+        "members": 8
+      }
+    ],
+    "Area 02": [
+      {
+        "clubId": "02137369",
+        "clubName": "Budapest ExxonMobil Associates' Toastmasters Club",
+        "members": 21
+      },
+      {
+        "clubId": "03461223",
+        "clubName": "PestBeszéd Toastmasters Klub",
+        "members": 33
+      },
+      {
+        "clubId": "04460349",
+        "clubName": "Ez A Beszed Toastmasters Club",
+        "members": 28
+      },
+      {
+        "clubId": "07869970",
+        "clubName": "Black Rock Speaks Belgrade",
+        "members": 14
+      }
+    ],
+    "Area 03": [
+      {
+        "clubId": "05412250",
+        "clubName": "Szó Da",
+        "members": 22
+      },
+      {
+        "clubId": "05859596",
+        "clubName": "Saturday Toastmasters Budapest",
+        "members": 7
+      },
+      {
+        "clubId": "07209933",
+        "clubName": "evotalk Budapest",
+        "members": 21
+      },
+      {
+        "clubId": "07840907",
+        "clubName": "Bankmasters",
+        "members": 0
+      },
+      {
+        "clubId": "28676657",
+        "clubName": "Voice of Blue",
+        "members": 14
+      }
+    ],
+    "Area 04": [
+      {
+        "clubId": "00004133",
+        "clubName": "Budapest Toastmasters",
+        "members": 32
+      },
+      {
+        "clubId": "04537007",
+        "clubName": "GE Vaci Greens Toastmasters Club",
+        "members": 11
+      },
+      {
+        "clubId": "06608593",
+        "clubName": "SAP Spiritos",
+        "members": 7
+      },
+      {
+        "clubId": "07079878",
+        "clubName": "Gyor Toastmasters",
+        "members": 35
+      },
+      {
+        "clubId": "07897528",
+        "clubName": "DT-ITS Toastmasters Club",
+        "members": 6
+      }
+    ],
+    "Area 05": [
+      {
+        "clubId": "00005715",
+        "clubName": "KOMA",
+        "members": 11
+      },
+      {
+        "clubId": "00007226",
+        "clubName": "CHAMBER Toastmasters Club",
+        "members": 10
+      },
+      {
+        "clubId": "00008466",
+        "clubName": "Dnipro Hills Club",
+        "members": 9
+      },
+      {
+        "clubId": "00686833",
+        "clubName": "Best Odessa Speakers Club",
+        "members": 8
+      },
+      {
+        "clubId": "00891042",
+        "clubName": "Arttalkers",
+        "members": 8
+      }
+    ]
+  },
+  "Division C": {
+    "Area 01": [
+      {
+        "clubId": "00009854",
+        "clubName": "Pardubice Enthusiasts Club",
+        "members": 30
+      },
+      {
+        "clubId": "01125152",
+        "clubName": "Brno Toastmasters",
+        "members": 13
+      },
+      {
+        "clubId": "02867912",
+        "clubName": "Brnenští Toastmástri",
+        "members": 16
+      },
+      {
+        "clubId": "06876842",
+        "clubName": "NetSuite Brno Toastmasters",
+        "members": 6
+      },
+      {
+        "clubId": "28676496",
+        "clubName": "Honeywell CZ Toastmasters",
+        "members": 23
+      }
+    ],
+    "Area 02": [
+      {
+        "clubId": "00957925",
+        "clubName": "Bohemian Toastmasters",
+        "members": 8
+      },
+      {
+        "clubId": "01965705",
+        "clubName": "Vox Fortis",
+        "members": 8
+      },
+      {
+        "clubId": "03064566",
+        "clubName": "Goood Morning Toastmasters",
+        "members": 34
+      },
+      {
+        "clubId": "04281505",
+        "clubName": "MSD Prague Toastmasters",
+        "members": 20
+      },
+      {
+        "clubId": "07098474",
+        "clubName": "Phoenix Toastmasters",
+        "members": 12
+      },
+      {
+        "clubId": "07285646",
+        "clubName": "Bulls and Bears Toastmasters",
+        "members": 10
+      }
+    ],
+    "Area 03": [
+      {
+        "clubId": "00765092",
+        "clubName": "Prague Speakers Club",
+        "members": 9
+      },
+      {
+        "clubId": "03735431",
+        "clubName": "S.E.A. Sharks of ExxonMobil Association",
+        "members": 0
+      },
+      {
+        "clubId": "04111193",
+        "clubName": "Professional Toastmasters Praha",
+        "members": 18
+      },
+      {
+        "clubId": "28677267",
+        "clubName": "Accenture Prague Toastmasters",
+        "members": 8
+      }
+    ],
+    "Area 04": [
+      {
+        "clubId": "02456486",
+        "clubName": "Prague Business Toastmasters",
+        "members": 25
+      },
+      {
+        "clubId": "04553065",
+        "clubName": "Barclays Prague Toastmasters",
+        "members": 24
+      },
+      {
+        "clubId": "06104572",
+        "clubName": "PwC Prague Toastmasters",
+        "members": 4
+      },
+      {
+        "clubId": "06822194",
+        "clubName": "Novartis Prague Toastmasters",
+        "members": 28
+      },
+      {
+        "clubId": "28677196",
+        "clubName": "Traders by Nature Toastmasters Club",
+        "members": 10
+      }
+    ],
+    "Area 05": [
+      {
+        "clubId": "01174714",
+        "clubName": "Toastmasters Bratislava",
+        "members": 20
+      },
+      {
+        "clubId": "04294793",
+        "clubName": "Toastmasters Nitra",
+        "members": 10
+      },
+      {
+        "clubId": "04634798",
+        "clubName": "Toastmasters Kosice",
+        "members": 6
+      },
+      {
+        "clubId": "06560344",
+        "clubName": "Yoda Voice",
+        "members": 19
+      }
+    ],
+    "Area 06": [
+      {
+        "clubId": "01799404",
+        "clubName": "Slovenskí Toastmasters",
+        "members": 23
+      },
+      {
+        "clubId": "04162284",
+        "clubName": "Toastmasters Petrzalka",
+        "members": 20
+      },
+      {
+        "clubId": "05693858",
+        "clubName": "Toastmasters Zilina",
+        "members": 9
+      },
+      {
+        "clubId": "06514853",
+        "clubName": "Toastmasters Trnava",
+        "members": 17
+      },
+      {
+        "clubId": "07808603",
+        "clubName": "Toastmasters Trencin",
+        "members": 9
+      }
+    ]
+  },
+  "Division D": {
+    "Area 01": [
+      {
+        "clubId": "01269633",
+        "clubName": "Timisoara Toastmasters Club",
+        "members": 21
+      },
+      {
+        "clubId": "02817706",
+        "clubName": "Oradea Toastmasters",
+        "members": 28
+      },
+      {
+        "clubId": "03760924",
+        "clubName": "Toastmasters Arad",
+        "members": 20
+      },
+      {
+        "clubId": "07652775",
+        "clubName": "Timisoara English Speakers",
+        "members": 11
+      }
+    ],
+    "Area 02": [
+      {
+        "clubId": "01467750",
+        "clubName": "Toastmasters Cluj",
+        "members": 26
+      },
+      {
+        "clubId": "01479402",
+        "clubName": "Brasov Toastmasters Club",
+        "members": 16
+      },
+      {
+        "clubId": "02584277",
+        "clubName": "Office Depot SSC Toastmasters",
+        "members": 7
+      },
+      {
+        "clubId": "04338165",
+        "clubName": "Transilvania Toastmasters Brasov",
+        "members": 40
+      },
+      {
+        "clubId": "05987658",
+        "clubName": "TOASTMASTERS SIBIU",
+        "members": 15
+      },
+      {
+        "clubId": "28678638",
+        "clubName": "SpeakUp Mures",
+        "members": 1
+      }
+    ],
+    "Area 03": [
+      {
+        "clubId": "01216331",
+        "clubName": "Toastmasters Club Bucharest",
+        "members": 14
+      },
+      {
+        "clubId": "02178065",
+        "clubName": "Toastmasters Bucuresti",
+        "members": 19
+      },
+      {
+        "clubId": "04325817",
+        "clubName": "Toastmasters Constanta",
+        "members": 12
+      },
+      {
+        "clubId": "04507412",
+        "clubName": "SIRIUS TOASTMASTERS",
+        "members": 25
+      },
+      {
+        "clubId": "28676384",
+        "clubName": "Microsoft Romania Club",
+        "members": 9
+      }
+    ],
+    "Area 04": [
+      {
+        "clubId": "01712971",
+        "clubName": "TOASTMASTERS IASI",
+        "members": 39
+      },
+      {
+        "clubId": "01935913",
+        "clubName": "Chisinau Toastmasters Club",
+        "members": 18
+      },
+      {
+        "clubId": "02243431",
+        "clubName": "Top Toastmasters Club",
+        "members": 11
+      },
+      {
+        "clubId": "04377361",
+        "clubName": "Toastmasters Botosani",
+        "members": 22
+      },
+      {
+        "clubId": "05418924",
+        "clubName": "Radauti Toastmasters",
+        "members": 8
+      },
+      {
+        "clubId": "28676926",
+        "clubName": "Spotlight Iasi - Toastmasters Club",
+        "members": 16
+      }
+    ]
+  }
+}
